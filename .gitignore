@@ -1,0 +1,14 @@
+target
+out
+.idea
+.settings
+*.class
+*.iml
+*.DS_Store
+*.classpath
+*.project
+*.epoch
+*.lck
+*.log
+*.jar
+.out
